@@ -23,6 +23,7 @@ public class binarysearch {
                 right=mid-1;
             }
 
+            
         }
         if(!found){
             System.out.println("element not found");
